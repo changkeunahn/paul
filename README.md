@@ -1,7 +1,8 @@
 # paul
 Persistence Volume/ConfigMap/Secret  
   EFS (Elastic File System) 사용을 위한 설정
-  - Step. 1: EFS 생성 
+  - Step. 1: EFS 생성   
+    AWS콘솔에서 작업   
     ![image](https://user-images.githubusercontent.com/121933672/223619655-38b0a7c7-d6cc-4d75-816d-9cdcd55ffc0f.png)
     ![image](https://user-images.githubusercontent.com/121933672/223619692-0fff160c-df69-4d84-bf55-35ad34b6241a.png)
 
